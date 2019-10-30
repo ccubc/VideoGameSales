@@ -1,4 +1,4 @@
-# Video Game Sales analysis
+# Video Game Sales Analysis
 ### --- Data analysis with categorical variables.
 This mini project analyzes video game sales across different markets: North America, Japan, and Europe within the last 30 years. The source data contains number of copies of games sold in each of the regional markets given information including game publisher, platform, year, genre, and name of the game. <br> <br>
 The repo contains two notebooks. **DataVisualization.ipynb** visualizes the data; **Regression.ipynb** runs a regression analysis to determine important features that affect video game sales. Feature selection is done using two methods: **forward selection using AIC** and **Lasso Regression**. The results are discussed in more details below.
